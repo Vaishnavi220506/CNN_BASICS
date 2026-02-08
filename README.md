@@ -9,7 +9,7 @@ It is designed for students who are starting with deep learning and computer vis
 
 Click the button below to open the notebook directly in Google Colab:
 
-[Open in Colab](https://colab.research.google.com/)
+[Open in Colab](https://colab.research.google.com/github/Vaishnavi220506/CNN_BASICS/blob/main/CNN_basics.ipynb)
 
 > You can upload the notebook manually to Colab or replace the link with your GitHub notebook link.
 
@@ -171,15 +171,3 @@ pip install torch
 ## License
 
 This project is licensed under the **MIT License**.
-
-```
-
----
-
-If you want, I can:
-- 🔗 Replace the Colab link with your **actual GitHub link**
-- ✍️ Customize it **exactly** for CIFAR-10 / Cats vs Dogs / any dataset
-- 🧠 Make a **next-level README** (with diagrams + learning outcomes)
-
-Just tell me 😄
-```
