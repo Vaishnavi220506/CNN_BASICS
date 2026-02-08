@@ -11,7 +11,7 @@ Click the button below to open the notebook directly in Google Colab:
 
 [Open in Colab](https://colab.research.google.com/github/Vaishnavi220506/CNN_BASICS/blob/main/CNN_basics.ipynb)
 
-> You can upload the notebook manually to Colab or replace the link with your GitHub notebook link.
+
 
 ---
 
