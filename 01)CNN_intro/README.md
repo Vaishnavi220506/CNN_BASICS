@@ -37,10 +37,12 @@ It is trained on the MNIST dataset to learn how to compress images and reconstru
 1. Clone the repository:
    ```bash
    git clone <your-repository-link>
-Open the notebook:
 
-simple_autoencoder.ipynb
-Run all cells to train and test the model.
+## Open in Google Colab
+
+Click the button below to open the notebook directly in Google Colab:
+
+[Open in Colab](https://colab.research.google.com/github/Vaishnavi220506/CNN_BASICS/blob/main/01%29CNN_intro/simple_autoencoder.ipynb)
 
 Output
 Reconstructed MNIST images
